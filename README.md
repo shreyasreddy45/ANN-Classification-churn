@@ -179,4 +179,3 @@ pip install -r requirements.txt
 
 **Shreyas T S**
 
-If you found this project helpful, consider giving it a ⭐ on GitHub.
